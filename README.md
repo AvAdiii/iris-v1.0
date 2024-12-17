@@ -5,7 +5,6 @@
 - Utilizes the speech_recognition library to listen for and recognize voice commands.
 - Text-to-Speech
 - Converts text to speech using pyttsx3 for local conversion.
-- Uses gTTS (Google Text-to-Speech) and pygame for playback.
 - Web Browsing
 - Opens websites like Google, Facebook, YouTube, and LinkedIn based on voice commands.
 
