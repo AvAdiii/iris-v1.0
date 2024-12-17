@@ -13,12 +13,12 @@ To run Iris Bot locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/iris-bot.git
+   git clone https://github.com/AvAdiii/iris-v1.0.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd iris-bot
+   cd iris-v1.0
    ```
 
 3. Install the required dependencies (if any):
@@ -29,7 +29,7 @@ To run Iris Bot locally, follow these steps:
 ## Usage
 1. Run the bot:
    ```bash
-   python iris_bot.py
+   python main.py
    ```
 
 2. Follow the on-screen instructions to interact with the bot.
@@ -37,7 +37,7 @@ To run Iris Bot locally, follow these steps:
 ## Project Structure
 ```
 iris-bot/
-├── iris_bot.py           # Main Python file
+├── main.py           # Main Python file
 ├── README.md             # Project documentation
 └── requirements.txt      # Dependencies
 ```
