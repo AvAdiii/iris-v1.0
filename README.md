@@ -1,4 +1,4 @@
-# Iris Bot
+# IRIS v1.0
 
 ## Features
 - Voice Recognition
